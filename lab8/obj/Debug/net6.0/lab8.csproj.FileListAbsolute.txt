@@ -1,0 +1,15 @@
+D:\Users\pawel.wrona\source\repos\lab8\lab8\bin\Debug\net6.0\lab8.exe
+D:\Users\pawel.wrona\source\repos\lab8\lab8\bin\Debug\net6.0\lab8.deps.json
+D:\Users\pawel.wrona\source\repos\lab8\lab8\bin\Debug\net6.0\lab8.runtimeconfig.json
+D:\Users\pawel.wrona\source\repos\lab8\lab8\bin\Debug\net6.0\lab8.dll
+D:\Users\pawel.wrona\source\repos\lab8\lab8\bin\Debug\net6.0\lab8.pdb
+D:\Users\pawel.wrona\source\repos\lab8\lab8\obj\Debug\net6.0\lab8.csproj.AssemblyReference.cache
+D:\Users\pawel.wrona\source\repos\lab8\lab8\obj\Debug\net6.0\lab8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\pawel.wrona\source\repos\lab8\lab8\obj\Debug\net6.0\lab8.AssemblyInfoInputs.cache
+D:\Users\pawel.wrona\source\repos\lab8\lab8\obj\Debug\net6.0\lab8.AssemblyInfo.cs
+D:\Users\pawel.wrona\source\repos\lab8\lab8\obj\Debug\net6.0\lab8.csproj.CoreCompileInputs.cache
+D:\Users\pawel.wrona\source\repos\lab8\lab8\obj\Debug\net6.0\lab8.dll
+D:\Users\pawel.wrona\source\repos\lab8\lab8\obj\Debug\net6.0\refint\lab8.dll
+D:\Users\pawel.wrona\source\repos\lab8\lab8\obj\Debug\net6.0\lab8.pdb
+D:\Users\pawel.wrona\source\repos\lab8\lab8\obj\Debug\net6.0\lab8.genruntimeconfig.cache
+D:\Users\pawel.wrona\source\repos\lab8\lab8\obj\Debug\net6.0\ref\lab8.dll
